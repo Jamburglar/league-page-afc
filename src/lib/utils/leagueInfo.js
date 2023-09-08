@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "991952672620167168"; // your league ID
-export const leagueName = "Nexteer Fantasy Football NFC"; // your league name
+export const leagueID = "992639635283107840"; // your league ID
+export const leagueName = "Nexteer Fantasy Football AFC"; // your league name
 export const dues =25; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
